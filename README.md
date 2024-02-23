@@ -1,4 +1,4 @@
-Created a banking Application using Spring Boot, Hibernate, RestAPI, MySQL and PostMan
+Created a banking Application using Spring Boot, Hibernate, RestAPI, MySQL and PostMan. In this app we can add Account, deposit and withdraw money, can see all accounts and we can delete accounts also. As this is a backend application so we will use PostMan to check our status.
 
 # Banking-Application
 
